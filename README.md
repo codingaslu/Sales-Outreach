@@ -98,7 +98,7 @@ The system follows the process to manage lead research and outreach efficiently 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen99/sales-outreach-automation-langgraph.git
+   git clone https://github.com/codingaslu/Sales-Outreach.git
    cd sales-outreach-automation-langgraph
    ```
 
