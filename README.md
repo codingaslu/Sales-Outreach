@@ -99,7 +99,7 @@ The system follows the process to manage lead research and outreach efficiently 
 
    ```sh
    git clone https://github.com/codingaslu/Sales-Outreach.git
-   cd sales-outreach-automation-langgraph
+   cd Sales-Outreach
    ```
 
 2. **Create and activate a virtual environment:**
